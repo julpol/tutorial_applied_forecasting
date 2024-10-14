@@ -60,7 +60,8 @@ install.packages(scales, dependencies=c("Depends", "Imports"))      # For changi
 3. Download the Zip file with all the materials to your laptop and unzip it in the dedicated folder on your computer. You will have a few folders, like *Data* and *Rcode*, with some files required for the tutorial. Please keep this folder structure.
    
 
- 
+ ## Contact me
+ julia.polak @ unimelb.edu.au
 
 
 
