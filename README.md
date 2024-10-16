@@ -18,19 +18,19 @@ Background: Participants should have a basic working knowledge of R and a little
 
 1:30-2:30  	Introduction and you need to know about time series analysis [Part 1 slides]() 
 
-2:30-3:00 	Exponential smoothing [Part 2 slides]() 
+2:30-3:00 	Exponential smoothing [Part 2 slides]() (coming soon)
 
 3:00-3:30 	BREAK
 
-3:30-4:00	  Exponential smoothing [Part 2 slides]() 
+3:30-4:00	  Exponential smoothing [Part 2 slides]() (coming soon)
 
-4:00-4:30   Regression models [Part 3 slides]() 
+4:00-4:30   Regression models [Part 3 slides]() (coming soon)
 
-4:30-5:00	ARIMA [Part 4 slides]() 
+4:30-5:00	ARIMA [Part 4 slides]() (coming soon)
 
 
-## Material
-- Slides part 1
+## Material (coming soon)
+- Slides part 1 
 - Slides part 2
 - Slides part 3
 - Slides part 4
