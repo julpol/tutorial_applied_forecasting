@@ -6,6 +6,7 @@ Time: Oct 22 1:30-5:00
 
 Location: [Monash University (downtown), 750 Collins St, Melbourne](https://www.google.com/maps/place/Monash+College+City+Campus/@-37.8200186,144.9493095,15z/data=!4m6!3m5!1s0x6ad65d4dbf52da3d:0xe25a5625211a931e!8m2!3d-37.8200186!4d144.9493095!16s%2Fm%2F0kg1lss?entry=ttu&g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D)
 
+Zoom link: [https://unimelb.zoom.us/j/88596389997?pwd=WLboMK2jePTa89fsLgF4Dukgd37Fj9.1](https://unimelb.zoom.us/j/88596389997?pwd=WLboMK2jePTa89fsLgF4Dukgd37Fj9.1) (Password: 399652)
 
 ## Tutorial details
 
