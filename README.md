@@ -19,22 +19,22 @@ Background: Participants should have a basic working knowledge of R and a little
 
 1:30-2:30  	Introduction and you need to know about time series analysis [Part 1 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/1_Intro_s.pdf) 
 
-2:30-3:00 	Exponential smoothing [Part 2 slides]() 
+2:30-3:00 	Exponential smoothing [Part 2 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/2_SmoothingMethodss_s.pdf) 
 
 3:00-3:30 	BREAK
 
-3:30-4:00	  Exponential smoothing [Part 2 slides]() 
+3:30-4:00	  Exponential smoothing [Part 2 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/2_SmoothingMethodss_s.pdf) 
 
-4:00-4:30   Regression models [Part 3 slides]() 
+4:00-4:30   Regression models [Part 3 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/3_LinearRegression.pdf) 
 
-4:30-5:00	ARIMA [Part 4 slides]() 
+4:30-5:00	ARIMA [Part 4 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/4_ARIMA_s.pdf) 
 
 
 ## Material (coming soon)
-- Slides part 1 
-- Slides part 2
-- Slides part 3
-- Slides part 4
+- [Part 1 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/1_Intro_s.pdf) 
+- [Part 2 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/2_SmoothingMethodss_s.pdf)
+- [Part 3 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/3_LinearRegression.pdf) 
+- [Part 4 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/4_ARIMA_s.pdf) 
 - Zip of material for hands-on activities
 
 ## Getting started
