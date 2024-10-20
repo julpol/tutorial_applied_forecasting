@@ -35,6 +35,7 @@ Background: Participants should have a basic working knowledge of R and a little
 - [Part 2 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/2_SmoothingMethodss_s.pdf)
 - [Part 3 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/3_LinearRegression.pdf) 
 - [Part 4 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/4_ARIMA_s.pdf) 
+- [Minimal R example](https://github.com/julpol/tutorial_applied_forecasting/blob/main/MinimalEample.R)
 - Zip of material for hands-on activities
 
 ## Getting started
@@ -57,7 +58,7 @@ install.packages(scales, dependencies=c("Depends", "Imports"))      # For changi
 ```
 
 
-2. Run the test code to ensure you are ready for the tutorial with your working environment.
+2. Run the [test code](https://github.com/julpol/tutorial_applied_forecasting/blob/main/MinimalEample.R) to ensure you are ready for the tutorial with your working environment.
 3. Download the Zip file with all the materials to your laptop and unzip it in the dedicated folder on your computer. You will have a few folders, like *Data* and *Rcode*, with some files required for the tutorial. Please keep this folder structure.
    
 
