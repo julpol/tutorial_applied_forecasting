@@ -36,7 +36,7 @@ Background: Participants should have a basic working knowledge of R and a little
 - [Part 3 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/3_LinearRegression.pdf) 
 - [Part 4 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/4_ARIMA_s.pdf) 
 - [Minimal R example](https://github.com/julpol/tutorial_applied_forecasting/blob/main/MinimalEample.R)
-- Zip of material for hands-on activities
+- [Zip of material for hands-on activities](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Data.zip)
 
 ## Getting started
 1. You should have a reasonably up-to-date R and R Studio version. In addition, please install the following packages and their dependencies *before the tutorial*.
