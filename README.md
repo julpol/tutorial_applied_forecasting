@@ -17,7 +17,7 @@ Background: Participants should have a basic working knowledge of R and a little
 ## Course Schedule
 **Time**	   **Topic**
 
-1:30-2:30  	Introduction and you need to know about time series analysis [Part 1 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/1_Intro_s.pdf) 
+1:30-2:30  	Introduction and all you need to know about time series analysis [Part 1 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/1_Intro_s.pdf) 
 
 2:30-3:00 	Exponential smoothing [Part 2 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/2_SmoothingMethodss_s.pdf) 
 
