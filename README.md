@@ -31,8 +31,8 @@ Background: Participants should have a basic working knowledge of R and a little
 
 
 ## Material (coming soon)
-- [Part 1 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/1_Intro_s.pdf) 
-- [Part 2 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/2_SmoothingMethodss_s.pdf)
+- [Part 1 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/1_Intro_s.pdf) ([R code](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/Part1_intro.R))
+- [Part 2 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/2_SmoothingMethodss_s.pdf) ([R code](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/Part2-EXPSmoothing.R))
 - [Part 3 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/3_LinearRegression.pdf) 
 - [Part 4 slides](https://github.com/julpol/tutorial_applied_forecasting/blob/main/Slides/4_ARIMA_s.pdf) 
 - [Minimal R example](https://github.com/julpol/tutorial_applied_forecasting/blob/main/MinimalEample.R)
